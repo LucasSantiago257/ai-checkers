@@ -74,8 +74,6 @@ Simulação e avaliação de cada movimento até uma profundidade definida.
 Retorno da jogada mais vantajosa segundo a função de avaliação.
 ```
 ---
-
----
 ## 🔍 Referências
 O código de jogo foi parcialmente inspirado no código do TechWithTim (https://www.youtube.com/watch?v=vnd3RfeG3NM).
 
