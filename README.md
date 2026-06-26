@@ -47,7 +47,7 @@ Em uma amostragem de cerca de 30 partidas, a IA consistentemente venceu 90% das 
 
 **1. Clone este repositório**
 ```sh
-https://github.com/LucasSantiago257/ai-checkers-unifacs.git
+https://github.com/LucasSantiago257/ai-checkers.git
 cd ai-checkers-unifacs
 ```
 
@@ -75,14 +75,6 @@ Retorno da jogada mais vantajosa segundo a função de avaliação.
 ```
 ---
 
-👥 Integrantes do grupo
-```
-LUCAS CARVALHO SANTIAGO
-GUILHERME ORNELLAS CARVALHO 
-JOÃO VICTOR MORAES LEITE
-JORGE HENRIQUE RAMOS GANDOLFI
-VICTOR OLIVEIRA CERQUEIRA
-```
 ---
 ## 🔍 Referências
 O código de jogo foi parcialmente inspirado no código do TechWithTim (https://www.youtube.com/watch?v=vnd3RfeG3NM).
